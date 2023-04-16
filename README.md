@@ -1,3 +1,5 @@
 # mymemory
 
-App for memory game
+mymemory using kotlin and firebase
+
+part3
